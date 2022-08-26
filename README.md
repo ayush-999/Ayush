@@ -3,7 +3,7 @@
 ### Learn About Ayush Chaturvedi ❤️
   
  ## My Work Experience:
-- 🙋 Working at TechnoSpark & Co. as Next JS Developer.
+- 🙋 Working at HCL Technologies as Software Engineer.
 - 🚀 Built Multiple Websites for Several businesses.
 - ✨ Prepared variety of different designs, layouts and websites as a Freelancer.
 
@@ -15,9 +15,9 @@
 - 🎨 I can design amazing layout using Bulma, BootStrap, tailwind Styled Componenets  Sass.
 - 👯 My skills are in designing, development SEO Optimization and Web Scrapping. 
 - 📝 Actively listen to customers' requests, confirming full understanding before addressing concerns.
-- 🧑💻 Plan website development, converting mockups into usable web presence with HTML, Angular and JSON coding.
+- 🧑💻 Plan website development, converting mockups into usable web presence with HTML, JS, CSS, Angular and JSON coding.
 - 🔨 Convert graphic designs to usable web images using Angular or React.js.
 
 
-## Reach Hamna
+## Reach Ayush
 - 📫 How to reach me: [Linked In](https://www.linkedin.com/in/ayush-chaturvedi02/) [Facebook](https://www.facebook.com/ayush0206/)
